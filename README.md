@@ -1,6 +1,6 @@
 # Dataengineering
 I have worked on these projects in courses I took related to data engineering 
-#Project 1 - Instacart data warehouse 
+# Project 1 - Instacart data warehouse 
 The project contains the following stages :- 
 1. Loading and storeing data for gas and weather
 2. Data cleaning and exploratory analysis 
